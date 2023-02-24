@@ -90,7 +90,9 @@ a {
   flex-wrap: wrap;
   padding: 40px;
   gap: 20px;
-  margin: auto;
+  margin-bottom: 120px;
+
+
 }
 
 .my_products {
@@ -137,10 +139,12 @@ a {
 .add-item {
   color: $dark;
   background-color: $bg;
+ 
 }
 
 .more {
   background-color: $primary;
+ 
 }
 
 

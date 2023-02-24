@@ -9,6 +9,7 @@ import './styles/spa.scss';
 import { AiOutlineShoppingCart, AiOutlineSearch } from 'react-icons/ai';
 import React, { useState } from "react";
 
+
 export default function App() {
   const [count, setCount] = useState(0);
 
